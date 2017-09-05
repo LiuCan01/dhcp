@@ -97,7 +97,7 @@ Patch61:  dhcp-addignore.patch
 Patch62:  dhcp-max-fd-value.patch
 # https://bugzilla.redhat.com/show_bug.cgi?id=1355827
 Patch63:  dhcp-4.2.5-rh1355827.patch
-Patch64:  dhcp-4.2.5-centos-branding.patch
+Patch64:  dhcp-4.2.5-easystack-branding.patch
 
 BuildRequires: autoconf
 BuildRequires: automake

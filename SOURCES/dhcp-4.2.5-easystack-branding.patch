@@ -7,8 +7,8 @@ diff -uNrp dhcp-4.1.1-P1.orig/omapip/errwarn.c dhcp-4.1.1-P1/omapip/errwarn.c
    log_error ("%s", "");
 -  log_error ("Please report for this software via the Red Hat Bugzilla site:");
 -  log_error ("    http://bugzilla.redhat.com");
-+  log_error ("Please report for this software via the CentOS Bugs Database:");
-+  log_error ("    http://bugs.centos.org/");
++  log_error ("Please report for this software via the Easystack Linux Bugs Database:");
++  log_error ("    http://bugs.easystack.org/");
    log_error ("%s", "");
    log_error ("exiting.");
  #endif
