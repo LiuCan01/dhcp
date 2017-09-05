@@ -93,7 +93,7 @@ Patch59:  dhcp-dns_client_cancelupdate.patch
 Patch60:  dhcp-prepend.patch
 Patch61:  dhcp-addignore.patch
 Patch62:  dhcp-max-fd-value.patch
-Patch63:  dhcp-4.2.5-centos-branding.patch
+Patch63:  dhcp-4.2.5-easystack-branding.patch
 
 BuildRequires: autoconf
 BuildRequires: automake
